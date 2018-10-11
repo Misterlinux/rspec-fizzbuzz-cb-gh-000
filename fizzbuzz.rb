@@ -6,7 +6,7 @@ def fizzbuzz(int)
   elsif int % 15 == 0
     puts "fizzBuzz"
   else
-    
+
 end
 
 # Don't forget! This file needs to be 'required' in its spec file
