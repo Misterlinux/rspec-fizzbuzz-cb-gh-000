@@ -1,9 +1,4 @@
-puts "insert a number to see a result "
-
-int=gets.trip
-int=int.to_i
-
-def fizzbuzz(int)
+def fizzbuzz(3)
 
 end
 
